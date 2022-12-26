@@ -1,0 +1,9 @@
+.popup-form {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    justify-content: center;
+    position: fixed;
+    top: 25%;
+    left: 25%;
+}

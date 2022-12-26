@@ -1,0 +1,18 @@
+body {
+    background-color: #fff3cc;
+    margin-left: 175px;
+    margin-right: 175px;
+    line-height: 1.5;
+}
+
+header {
+    text-align: center;
+}
+
+h1, h2, h3 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}

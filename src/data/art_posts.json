@@ -1,0 +1,11 @@
+[
+    {"timestamp": 1654388788893, "id": 1, "username": "00001", "category": "digital", "src": "img/jml.png", "description": "a group of digitally drawn people sitting around a people"},
+    {"id": 2, "username": "00002", "category": "digital", "src": "img/BG.jpg", "description": "a group of digitally drawn characters wearing a uniform"},
+    {"id": 3, "username": "00003", "category": "digital", "src": "img/going_shopping.png" , "description": "a digitally drawn male holding a shopping bag"},
+    {"id": 4, "username": "00004", "category": "digital", "src": "img/gord.jpg" , "description": "a digitally drawn male character showing a V sign"},
+    {"id": 5, "username": "00005", "category": "photography", "src": "img/grass_house.jpg" , "description": "a house fronted by grass"},
+    {"id": 6, "username": "00006", "category": "digital", "src": "img/yu_draft_2.jpg" , "description": "a digitally drawn male character showing mysterious power from his hand"},
+    {"id": 7, "username": "00007", "category": "photography", "src": "img/man_cliff.jpg" , "description": "young man sitting by a cliff looking at sunset"},
+    {"id": 8, "username": "00008", "category": "painting", "src": "img/snowy_sketch.png" , "description": "sketch of spaceship flying by a snowy mountain"},
+    {"id": 9, "username": "00007", "category": "photography", "src": "img/man_cliff.jpg" , "description": "young man sitting by a cliff looking at sunset (repeat)"}
+]
